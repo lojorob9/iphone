@@ -1,0 +1,31 @@
+
+.primary {
+    padding: 35px;
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 300px;
+    border: 2px solid black;
+    
+}
+.first {
+padding-bottom: 10px;
+padding-top: 35px;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.second {
+padding-bottom: 10px;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.third{
+padding-bottom: 10px;
+padding-bottom: 35px;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.fourth{
+padding-bottom: 35px;
+border-width: 100%;
+}
+.fifth{
+    font-size: 40px;
+}
